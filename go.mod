@@ -1,4 +1,4 @@
-module github.com/limona77/protos
+module github.com/limona77/protosContract
 
 go 1.22.7
 
